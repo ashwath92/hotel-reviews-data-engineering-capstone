@@ -5,9 +5,11 @@
 *.ppk
 
 # Specific data files
-*.csv
+Hotel_Reviews.csv
+places.original.json
 places.clean.json
-sas_data/
+Data/Cleaned/*.jsonl
+Data/Cleaned/airports.csv
 
 # led / optimized / DLL files
 __pycache__/
