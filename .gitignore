@@ -8,7 +8,7 @@
 Hotel_Reviews.csv
 places.original.json
 places.clean.json
-Data/Cleaned/*.jsonl
+Data/Cleaned/*.parquet
 Data/Cleaned/airports.csv
 
 # led / optimized / DLL files
