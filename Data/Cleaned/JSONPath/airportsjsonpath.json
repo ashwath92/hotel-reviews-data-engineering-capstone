@@ -1,0 +1,18 @@
+ {
+    "jsonpaths": [
+        "$['AirportID']",
+        "$['Type']",
+        "$['AirportName']",
+	"$['Municipality']",
+        "$['Country']",
+        "$['ISOCountry']",
+        "$['Continent']",
+        "$['ISORegion']",
+        "$['Latitude']",
+        "$['Longitude']",
+        "$['ElevationInFeet']",
+        "$['GPSCode']",
+        "$['IATACode']",
+        "$['LocalCode']"
+    ]
+}

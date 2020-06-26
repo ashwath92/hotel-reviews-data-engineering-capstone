@@ -1,0 +1,17 @@
+{
+    "jsonpaths": [
+        "$['HotelID']",
+        "$['NumReviews']",
+        "$['AverageScore']",
+        "$['NumRatings']",
+        "$['ReviewDate']",
+        "$['ReviewerNationality']",
+        "$['TotalNumReviewsByReviewer']",
+        "$['ReviewerScore']",
+        "$['NegativeReview']",
+        "$['ReviewNegativeWordsCount']",
+        "$['PositiveReview']",
+        "$['ReviewPositiveWordsCount']",
+        "$['Tags']"
+    ]
+}

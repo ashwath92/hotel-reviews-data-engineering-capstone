@@ -1,0 +1,25 @@
+  {
+    "jsonpaths": [
+        "$['Country']",
+        "$['ISOCode']",
+        "$['TourismExpenditureMillions']",
+        "$['TouristArrivalsThousands']",
+        "$['Currency']",
+        "$['ExchangeRateEndOfPeriod']",
+        "$['GNIPerCapita']",
+        "$['GDPPerCapita']",
+        "$['MobilePhoneSubscriptions']",
+        "$['NetMigrationRate']",
+        "$['Population']",
+        "$['UrbanPopulationPercent']",
+        "$['HDIRank']",
+        "$['HDI']",
+        "$['InternetUsersPercent']",
+        "$['PoliticalRightsFreedomScore']",
+        "$['CivilLibertiesFreedomScore']",
+        "$['FreedomStatus']",
+        "$['DemocracyOrNot']",
+        "$['PoliticalRegimeTypeScore']",
+        "$['HumanRightsScore']",
+    ]
+}

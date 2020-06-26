@@ -1,0 +1,23 @@
+{
+    "jsonpaths": [
+        "$['HotelID']",
+        "$['HotelName']",
+        "$['HotelAddress']",
+        "$['Country']",
+        "$['Phone']",
+        "$['Price']",
+        "$['OriginalHotelName']",
+        "$['GoogleAddress']",
+        "$['Latitude']",
+        "$['Longitude']",
+        "$['gPlusPlaceId']",
+        "$['NearestAirportID']",
+        "$['MondayHours']",
+        "$['TuesdayHours']",
+        "$['WednesdayHours']",
+        "$['ThursdayHours']",
+        "$['FridayHours']",
+        "$['SaturdayHours']",
+        "$['SundayHours']"
+    ]
+}
